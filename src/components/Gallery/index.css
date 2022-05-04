@@ -1,0 +1,21 @@
+.bg-conatiner {
+  padding: 15px;
+}
+
+.gallery-image {
+  width: 100%;
+}
+
+.thumbnail-container {
+  display: flex;
+  flex-wrap: wrap;
+  padding-left: 0px;
+}
+
+.heading {
+  color: #1e293b;
+}
+
+.description {
+  color: #64748b;
+}
